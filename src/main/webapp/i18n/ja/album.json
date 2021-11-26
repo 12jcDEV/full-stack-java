@@ -1,0 +1,27 @@
+{
+  "flickr2App": {
+    "album": {
+      "home": {
+        "title": "Albums",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Album を追加",
+        "createOrEditLabel": "Albumを追加または編集",
+        "notFound": "No Albums found"
+      },
+      "created": "A new Album is created with identifier {{ param }}",
+      "updated": "A Album is updated with identifier {{ param }}",
+      "deleted": "A Album is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Album {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Album"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "created": "Created",
+      "user": "User"
+    }
+  }
+}

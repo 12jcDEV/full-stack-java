@@ -1,0 +1,32 @@
+{
+  "flickr2App": {
+    "photo": {
+      "home": {
+        "title": "Photos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Photo を追加",
+        "createOrEditLabel": "Photoを追加または編集",
+        "notFound": "No Photos found"
+      },
+      "created": "A new Photo is created with identifier {{ param }}",
+      "updated": "A Photo is updated with identifier {{ param }}",
+      "deleted": "A Photo is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Photo {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Photo"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "image": "Image",
+      "height": "Height",
+      "width": "Width",
+      "taken": "Taken",
+      "uploaded": "Uploaded",
+      "album": "Album",
+      "tag": "Tag"
+    }
+  }
+}
